@@ -42,4 +42,4 @@ days.slice(2, 5);
 const.slice(-3); 
 = Fri,Sat,Sun
 
-splice 
+splice (2,1, french weekend)
