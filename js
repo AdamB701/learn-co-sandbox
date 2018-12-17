@@ -7,4 +7,6 @@ superheros;
 const coolCities = 
 ['New York','San Francisco'];
 
-cost allCities
+cost allCities =
+['Los Angeles',...coolCities];
+
