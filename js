@@ -26,4 +26,18 @@ const homeless friends = ['Jon','Sam','Tim'];
 
 homelessfriends; 
 
+const racecars = ['Porsche','Ferrari','Lotus'];
+
+racecars.shift();
+
+racecars; 
+
+Slice breaks apart the array at the designated position. 
+
+const days = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']; 
+
+days.slice(2, 5);
+= Wed, Fri
+
+
 
