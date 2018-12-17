@@ -40,5 +40,5 @@ days.slice(2, 5);
 = Wed, Fri
 
 const.slice(-3); 
-
+= Fri,Sat,Sun
 
